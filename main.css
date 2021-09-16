@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color:black;
+    color:whitesmoke;
+
+ }
+ 
+ #time, #score {
+    position:absolute;
+    top:20px;
+}
+
+#time {
+    right : 20px;
+}
+
+#score {
+    left : 20px;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20rem;
+}
+.button {
+    text-align: center;
+    font-size: medium;
+}
+.start {
+    text-align: center;
+    font-size: xx-large;
+}
+p {
+    font-size: xx-large;
+    font-style: italic;
+    color: cornsilk;
+}
+.code {
+    padding: 10%;
+}

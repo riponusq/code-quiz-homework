@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>CODE QUIZ</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>   
+</head>
+<body>
+    <div class="quiz-container" id="quiz">
+        <div class="quiz header">
+        <h1 class=code>CODE QUIZ</h1>
+        <h2 id="question">Question</h2>
+        <ol>
+            
+            <li>
+                <input type ="radio" name="answer" id="a" class="answer">
+                <label for="a" id="a_question">Question</label>
+            </li>
+            <li>
+                <input type ="radio" name="answer" id="b" class="answer">
+                <label for="b" id="b_question">Question</label>
+            </li>
+            <li>
+                <input type ="radio" name="answer" id="c" class="answer">
+                <label for="c" id="c_question">Question</label>
+            </li>
+            <li>
+                <input type ="radio" name="answer" id="d" class="answer">
+                <label for="d" id="d_question">Question</label>
+            </li>
+        </0l>
+    </div>
+    
+    <button id = "submit"> SUBMIT </button>
+    <h3 id ="time"> START TIME </h3>
+    <h4 id = "score"> VIEW SCORE : 00:00 </h4>
+
+    <script src='main.js'></script>
+</body>
+</html>
