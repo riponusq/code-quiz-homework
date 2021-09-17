@@ -40,3 +40,8 @@ p {
 .code {
     padding: 10%;
 }
+#quiz {
+    background-color:black;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
