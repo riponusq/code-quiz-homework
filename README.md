@@ -16,4 +16,4 @@ Credits:
     W3 schoolwebsite.
     Bryan (instructor).
     Rebeca Gonzalez.
-    blob:devtools://devtools/4ea0a429-5ace-4ce7-9e36-1fcd38d158d5
+    ![_C__Users_ripon_Desktop_code-quiz-homework_index0 html](https://user-images.githubusercontent.com/86772467/133726517-e1d85349-ad3a-474a-9dab-a0b5062d1bec.png)
